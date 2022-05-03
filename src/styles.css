@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.another {
+  margin: 10px 0 0 0;
+}
+
+.userlogin {
+  text-align: center;
+}
+
+input {
+  height: 23px;
+  weight: 60px;
+}
+
+button {
+  color: white;
+  background-color: green;
+}
+
+/* input {
+display: block;
+} */
+
+.space1 {
+  width: 2000px;
+  display: block;
+}
